@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp-sass": "^2.2.0",
+    "hbsfy": "^2.6.0",
+    "rimraf": "^2.5.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
